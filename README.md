@@ -26,14 +26,14 @@
 
 ### 📊 GitHub İstatistiklerim
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=1a1b27" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&langs_count=7&theme=tokyonight&title_color=A020F0&text_color=ffffff&bg_color=1a1b27" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nehir&show_icons=true&theme=tokyonight&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=1a1b27" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehir&layout=compact&langs_count=7&theme=tokyonight&title_color=A020F0&text_color=ffffff&bg_color=1a1b27" />
 </p>
 
 ---
 
 ### 🐍 Snake Game
-![Snake animation](https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KULLANICI_Nehir/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
