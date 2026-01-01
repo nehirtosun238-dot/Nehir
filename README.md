@@ -22,19 +22,21 @@
 </p>
 
 ---
+
 ### 📊 GitHub İstatistiklerim
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehirtosun238-dot&show_icons=true&theme=tokyonight&title_color=bf91f3&icon_color=bf91f3&text_color=d1d1d1&bg_color=1a1b26&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehirtosun238-dot&layout=compact&langs_count=7&theme=tokyonight&title_color=bf91f3&text_color=d1d1d1&bg_color=1a1b26&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehirtosun238-dot&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehirtosun238-dot&show_icons=true&theme=tokyonight&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=1a1b27&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehirtosun238-dot&layout=compact&langs_count=7&theme=tokyonight&title_color=A020F0&text_color=ffffff&bg_color=1a1b27" />
 </p>
+
 ---
 
 ### 🐍 Snake Game
-![Snake animation](https://github.com/nehirtosun238-dot/nehirtosun238-dot/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nehirtosun238-dot/nehirtosun238-dot/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=100&section=footer" width="100%"/>
-
