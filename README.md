@@ -24,10 +24,9 @@
 ---
 
 ### 📊 GitHub İstatistiklerim
-
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehirtosun238-dot&show_icons=true&theme=tokyonight&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=1a1b27&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehirtosun238-dot&layout=compact&langs_count=7&theme=tokyonight&title_color=A020F0&text_color=ffffff&bg_color=1a1b27" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehirtosun238-dot&show_icons=true&theme=tokyonight&title_color=A020F0&icon_color=A020F0&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehirtosun238-dot&layout=compact&langs_count=7&theme=tokyonight&title_color=A020F0" />
 </p>
 
 ---
